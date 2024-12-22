@@ -32,7 +32,8 @@ Ce projet est un serveur HTTP développé en Java, avec une interface graphique 
 
 ### 2️⃣ Démarrage du serveur
 
-- Cliquez sur le bouton **Démarrer** pour lancer le serveur.
+- Ubuntu : Lancer le terminal et taper la commande **./Config.sh** pour démarrer le serveur
+- Windows : Executer la commande **./Config.bat** pour démarrer le serveur
 
 ---
 
