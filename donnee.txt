@@ -1,0 +1,3 @@
+Port: 3000
+HTDOCS: options/htdocs
+PHP: true
